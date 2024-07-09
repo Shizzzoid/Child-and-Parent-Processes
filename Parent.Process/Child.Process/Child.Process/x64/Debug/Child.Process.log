@@ -1,0 +1,8 @@
+﻿  Child.Process.cpp
+C:\Users\taski\OneDrive\Рабочий стол\Parent.Process\Child.Process\resource.h(22,9): warning C4005: IDD_ABOUTBOX: изменение макроопределения
+C:\Users\taski\OneDrive\Рабочий стол\Parent.Process\Child.Process\resource.h(23,9): warning C4005: IDM_EXIT: изменение макроопределения
+C:\Users\taski\OneDrive\Рабочий стол\Parent.Process\Child.Process\Child.Process.cpp(16,9): warning C4005: WM_UPDATE_TIME: изменение макроопределения
+C:\Users\taski\OneDrive\Рабочий стол\Parent.Process\Child.Process\Child.Process.cpp(17,9): warning C4005: WM_CHILD_COMPLETED: изменение макроопределения
+C:\Users\taski\OneDrive\Рабочий стол\Parent.Process\Child.Process\Child.Process.cpp(47,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\taski\OneDrive\Рабочий стол\Parent.Process\Child.Process\Child.Process.cpp(94,18): warning C4312: приведение типов: преобразование из "long" в "HWND" большего размера
+  Child.Process.vcxproj -> C:\Users\taski\OneDrive\Рабочий стол\Parent.Process\Child.Process\x64\Debug\Child.Process.exe

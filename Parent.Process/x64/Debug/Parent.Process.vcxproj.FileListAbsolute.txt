@@ -1,0 +1,2 @@
+C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\x64\Debug\Parent.Process.exe
+F:\ОС\Parent.Process\x64\Debug\Parent.Process.exe

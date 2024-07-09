@@ -1,0 +1,22 @@
+﻿  Child.Process.cpp
+C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\resource.h(22,1): warning C4005: IDD_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "Child.Process.cpp")
+  C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\resource.h(9,1):
+  см. предыдущее определение "IDD_ABOUTBOX"
+  
+C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\resource.h(23,1): warning C4005: IDM_EXIT: изменение макроопределения
+  (компиляция исходного файла "Child.Process.cpp")
+  C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\resource.h(11,1):
+  см. предыдущее определение "IDM_EXIT"
+  
+C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\Child.Process.cpp(13,1): warning C4005: WM_UPDATE_TIME: изменение макроопределения
+  C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\resource.h(29,1):
+  см. предыдущее определение "WM_UPDATE_TIME"
+  
+C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\Child.Process.cpp(14,1): warning C4005: WM_CHILD_COMPLETED: изменение макроопределения
+  C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\resource.h(28,1):
+  см. предыдущее определение "WM_CHILD_COMPLETED"
+  
+C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\Child.Process.cpp(38,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\Child.Process.cpp(85,18): warning C4312: приведение типов: преобразование из "long" в "HWND" большего размера
+  Child.Process.vcxproj -> C:\Users\taski\OneDrive\Рабочий стол\Операционные Системы\Parent.Process\Child.Process\x64\Debug\Child.Process.exe

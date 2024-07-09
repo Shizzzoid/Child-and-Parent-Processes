@@ -1,0 +1,11 @@
+﻿  Parent.Process.cpp
+F:\ОС2.0\Parent.Process\resource.h(22,9): warning C4005: IDD_ABOUTBOX: изменение макроопределения
+F:\ОС2.0\Parent.Process\resource.h(23,9): warning C4005: IDM_EXIT: изменение макроопределения
+F:\ОС2.0\Parent.Process\Parent.Process.cpp(17,9): warning C4005: WM_UPDATE_TIME: изменение макроопределения
+F:\ОС2.0\Parent.Process\Parent.Process.cpp(18,9): warning C4005: WM_CHILD_COMPLETED: изменение макроопределения
+resource.h(22): warning RC4005: 'IDD_ABOUTBOX' : redefinition
+  
+resource.h(23): warning RC4005: 'IDM_EXIT' : redefinition
+  
+  LINK : не найден или не выполнена сборка F:\ОС2.0\Parent.Process\x64\Debug\Parent.Process.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Parent.Process.vcxproj -> F:\ОС2.0\Parent.Process\x64\Debug\Parent.Process.exe
